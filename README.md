@@ -1,6 +1,6 @@
 # 🚀 Fullstack JS/TS Developer from Stockholm, Sweden
 
-A passionate Fullstack developer with a knack for building for mobile applications.
+A passionate Fullstack developer with a knack for building mobile applications.
 
 Don't hesitate to reach out if you have any questions or want to collaborate on something awesome!
 
